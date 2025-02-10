@@ -1,4 +1,4 @@
-# 📌 Disease Prediction App – AI-powered Diagnosis 🚀  
+# 📌  Prediction of Disease Outbreaks 🚀  
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/shiva-yadav-ds/Prediction-of-Disease-Outbreaks?color=blue&style=flat-square)  
 ![GitHub stars](https://img.shields.io/github/stars/shiva-yadav-ds/Prediction-of-Disease-Outbreaks?style=social)  
