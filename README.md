@@ -1,72 +1,40 @@
-##🚀 Disease Prediction App
+# 📌 Disease Prediction App – AI-powered Diagnosis 🚀  
 
+![GitHub repo size](https://img.shields.io/github/repo-size/shubhamyadav12/disease-prediction?color=blue&style=flat-square)  
+![GitHub stars](https://img.shields.io/github/stars/shubhamyadav12/disease-prediction?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/shubhamyadav12/disease-prediction?style=social)  
 
-📊 An AI-powered tool for predicting Heart Disease, Diabetes, and Parkinson’s Disease.
+## 📊 Overview  
+An AI-powered **Disease Prediction App** that assesses risk for **Heart Disease, Diabetes, and Parkinson’s Disease** using machine learning models.  
 
-🔍 Built with Streamlit, TensorFlow, and Scikit-Learn.
+🔍 **Built with:** Streamlit, TensorFlow, Scikit-Learn, and Pandas  
+⚡ **Achieved:** **96% accuracy** on Parkinson’s Disease Detection  
 
+---
 
+## 🚀 Features  
+- ✅ **Predicts Disease Risk** using Machine Learning  
+- ✅ **User-friendly UI** with **Streamlit**  
+- ✅ **Visual Data Analysis** using **Matplotlib & Seaborn**  
+- ✅ **Deployed on Streamlit Cloud** for easy access  
 
+---
 
-##✨ Features
+## 🔗 Live Demo  
+🌍 **Try it now:** [Disease Prediction App](https://your-streamlit-app-link.com)  
 
+---
 
-✅ Disease Risk Assessment – Predicts risk based on medical data.
+## 🛠️ Tech Stack  
+- 🐍 **Python** (NumPy, Pandas, Scikit-Learn, TensorFlow)  
+- 🎨 **Streamlit UI**  
+- 📊 **Matplotlib, Seaborn** (for data visualization)  
+- ☁️ **Deployed on Streamlit Cloud**  
 
-✅ User-friendly UI – Built with Streamlit for smooth interaction.
+---
 
-✅ ML Models – Achieved 96% accuracy on Parkinson’s Detection.
+## 📥 Installation  
 
-
-##🔗 Live Demo
-
-🌍 Try it now: https://clinical-ai-diagnostic-suite.streamlit.app/
-
-
-
-##🛠️ Tech Stack
-
-🐍 Python (NumPy, Pandas, Scikit-Learn, TensorFlow)
-
-🎨 Streamlit UI
-
-📊 Matplotlib, Seaborn (for data visualization)
-
-☁️ Deployed on Streamlit Cloud
-
-
-
-##📸 Screenshots
-Home Page
-
-![image](https://github.com/user-attachments/assets/24e71be9-fac9-492e-aabe-d323112735db)
-
-
-Disease Prediction Result
-![image](https://github.com/user-attachments/assets/46fc7038-0abc-439d-b6ab-1999748ed374)
-
-
-##🚀 How to Run Locally?
-
-git clone https://github.com/shiva-yadav-ds/disease-prediction.git
-
-cd disease-prediction
-
-pip install -r requirements.txt
-
-streamlit run app.py
-
-
-##👨‍💻 Author
-Shiva Yadav
-
-🏛 IIT Madras (BS in Data Science & Applications)
-
-📧 Email: yaduvanshishubha678@gmail.com
-          25f1000035@ds.study.iitm.ac.in
-          
-🔗 LinkedIn: Shiva Yadav
-
-🏆 GitHub: shiva-yadav-ds
-
-💖 Support the project by giving a ⭐ on GitHub! 🚀
+### 1️⃣ Clone the Repository  
+```sh
+git clone https://github.com/shubhamyadav12/disease-prediction.git
